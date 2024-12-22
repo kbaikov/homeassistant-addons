@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Kbaikov Home Assistant add-on repository
+url: https://github.com/kbaikov/homeassistant-addons
+maintainer: kbaikov

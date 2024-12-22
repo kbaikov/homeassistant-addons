@@ -1,0 +1,14 @@
+{
+  "name": "Test1",
+  "description": "test add-on",
+  "version": "0.0.1",
+  "slug": "test1",
+  "init": false,
+  "arch": [
+    "armhf",
+    "armv7",
+    "aarch64",
+    "amd64",
+    "i386"
+  ]
+}
