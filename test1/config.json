@@ -1,7 +1,7 @@
 {
   "name": "Test1",
   "description": "test add-on",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "slug": "test1",
   "init": false,
   "arch": [
@@ -10,5 +10,9 @@
     "aarch64",
     "amd64",
     "i386"
-  ]
+  ],
+  "startup": "services",
+  "ports": {
+    "8000/tcp": 8000
+  }
 }
